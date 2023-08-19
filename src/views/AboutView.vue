@@ -13,14 +13,14 @@
               <tr>
                 <td>Repository Link</td>
                 <td>
-                  <a href="https://github.com/wruandev"
-                    >https://github.com/wruandev</a
+                  <a href="https://github.com/wruandev/william-aruan-vue-pk"
+                    >https://github.com/wruandev/william-aruan-vue-pk</a
                   >
                 </td>
               </tr>
               <tr>
                 <td>Website Link</td>
-                <td><a href="/">bagi-kelompok-test.vercel.app</a></td>
+                <td><a href="https://william-aruan-vue-pk.vercel.app">https://william-aruan-vue-pk.vercel.app</a></td>
               </tr>
             </tbody>
           </template>
